@@ -1,0 +1,17 @@
+{
+  "name": "Retroskuff.Modules.Player",
+  "rootNamespace": "Retroskuff.Modules.Player",
+  "references": [
+    "GUID:75469ad4d38634e559750d17036d5f7c",
+    "GUID:96ec7950cd165c84a847347ee173cb31"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

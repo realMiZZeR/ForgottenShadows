@@ -1,0 +1,16 @@
+{
+  "name": "Retroskuff.Modules.Camera",
+  "rootNamespace": "Retroskuff.Modules.Camera",
+  "references": [
+    "GUID:96ec7950cd165c84a847347ee173cb31"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
